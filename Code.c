@@ -1,6 +1,3 @@
-//222-35-1184
-//222-35-1126
-
 #include<stdio.h>
 #include<time.h>
 #include<windows.h>
